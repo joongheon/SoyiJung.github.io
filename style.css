@@ -7,8 +7,8 @@ body {
 	background:#fff;
 	min-width:600px;		/* Minimum width of layout - remove line if not required */
 					/* The min-width property does not work in old versions of Internet Explorer */
-	font:x-small/1.5em Arial; /* Tahoma, Avenir,Verdana,Sans-Serif; */
-	font-size:80%;
+	font:x-small/1.5em Tahoma; /* Tahoma, Avenir,Verdana,Sans-Serif; */
+	font-size:85%;
 }
 a {
 	/* color:#C41E3A; */
